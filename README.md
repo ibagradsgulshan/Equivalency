@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" class=""> <!-- 'dark' class will be toggled here -->
 <head>
   <meta charset="utf-8" />
